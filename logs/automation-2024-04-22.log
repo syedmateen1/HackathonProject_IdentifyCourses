@@ -1,0 +1,776 @@
+13:51:21.686 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.699 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.699 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.699 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.699 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.701 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.702 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.702 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.702 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.703 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.745 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.745 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.746 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.772 [main] DEBUG - Save content types part
+13:51:21.773 [main] DEBUG - Save package relationships
+13:51:21.773 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:21.773 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.775 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.776 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.776 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.776 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.777 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.778 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.778 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.779 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.779 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.783 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.784 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.785 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.809 [main] DEBUG - Save content types part
+13:51:21.811 [main] DEBUG - Save package relationships
+13:51:21.811 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:21.812 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.813 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.813 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.813 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.813 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.814 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.815 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.815 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.816 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.816 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.854 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.854 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.855 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.877 [main] DEBUG - Save content types part
+13:51:21.878 [main] DEBUG - Save package relationships
+13:51:21.879 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:21.879 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.880 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.880 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.881 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.881 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.882 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.883 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.883 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.883 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.883 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.888 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.888 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.889 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.909 [main] DEBUG - Save content types part
+13:51:21.910 [main] DEBUG - Save package relationships
+13:51:21.911 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:21.911 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.912 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.912 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.912 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.913 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.914 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.914 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.915 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.915 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.915 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.946 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.947 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.947 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.965 [main] DEBUG - Save content types part
+13:51:21.966 [main] DEBUG - Save package relationships
+13:51:21.967 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:21.967 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:21.968 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:21.968 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:21.968 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:21.968 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:21.970 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:21.971 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:21.971 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:21.971 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:21.971 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:21.976 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:21.977 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:21.977 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:21.999 [main] DEBUG - Save content types part
+13:51:22.000 [main] DEBUG - Save package relationships
+13:51:22.002 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.002 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.003 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.003 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.005 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.005 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.007 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.008 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.009 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.009 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.009 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.047 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.048 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.048 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.075 [main] DEBUG - Save content types part
+13:51:22.076 [main] DEBUG - Save package relationships
+13:51:22.077 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.078 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.079 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.079 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.079 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.080 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.082 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.083 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.084 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.084 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.084 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.090 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.091 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.091 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.123 [main] DEBUG - Save content types part
+13:51:22.124 [main] DEBUG - Save package relationships
+13:51:22.125 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.126 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.128 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.128 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.128 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.129 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.130 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.131 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.131 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.131 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.132 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.133 [main] INFO  - Extracting Languages
+13:51:22.287 [main] INFO  - Taking screenshot
+13:51:22.383 [main] INFO  - Closing See All section
+13:51:22.601 [main] INFO  - Taking screenshot
+13:51:22.736 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.737 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.737 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.756 [main] DEBUG - Save content types part
+13:51:22.758 [main] DEBUG - Save package relationships
+13:51:22.758 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.759 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.760 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.760 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.760 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.760 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.762 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.763 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.763 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.763 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.763 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.768 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.768 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.769 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.787 [main] DEBUG - Save content types part
+13:51:22.788 [main] DEBUG - Save package relationships
+13:51:22.789 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.789 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.790 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.790 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.791 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.791 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.792 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.794 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.794 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.794 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.794 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.799 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.800 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.800 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.820 [main] DEBUG - Save content types part
+13:51:22.821 [main] DEBUG - Save package relationships
+13:51:22.822 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.822 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.823 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.824 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.824 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.825 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.826 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.828 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.828 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.828 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.828 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.833 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.834 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.834 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.854 [main] DEBUG - Save content types part
+13:51:22.856 [main] DEBUG - Save package relationships
+13:51:22.857 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.857 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.859 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.859 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.860 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.860 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.862 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.863 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.863 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.863 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.863 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.868 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.868 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.869 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.892 [main] DEBUG - Save content types part
+13:51:22.893 [main] DEBUG - Save package relationships
+13:51:22.894 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.894 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.896 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.896 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.896 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.897 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.898 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.898 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.899 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.899 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.899 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.904 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.905 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.905 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.925 [main] DEBUG - Save content types part
+13:51:22.926 [main] DEBUG - Save package relationships
+13:51:22.927 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.927 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.928 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.928 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.929 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.929 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.930 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.931 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.931 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.931 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.931 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.936 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.937 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.937 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.962 [main] DEBUG - Save content types part
+13:51:22.963 [main] DEBUG - Save package relationships
+13:51:22.964 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.964 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.965 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.965 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.966 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.966 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:22.967 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:22.968 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:22.968 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:22.968 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:22.968 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:22.973 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:51:22.973 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:51:22.973 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:51:22.995 [main] DEBUG - Save content types part
+13:51:22.997 [main] DEBUG - Save package relationships
+13:51:22.998 [main] DEBUG - Save part 'docProps/app.xml'
+13:51:22.998 [main] DEBUG - Save part 'docProps/core.xml'
+13:51:22.999 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:51:22.999 [main] DEBUG - Save part 'xl/styles.xml'
+13:51:22.999 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:51:22.999 [main] DEBUG - Save part 'xl/workbook.xml'
+13:51:23.000 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:51:23.001 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:51:23.001 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:51:23.001 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:51:23.001 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:51:23.002 [main] INFO  - Extracting Difficulty levels
+13:51:23.185 [main] INFO  - Taking screenshot
+13:51:23.186 [main] INFO  - Clicking Home Button
+13:52:04.000 [main] INFO  - Taking screenshot
+13:52:46.489 [main] INFO  - Taking screenshot
+13:52:46.690 [main] INFO  - Taking screenshot
+13:52:50.377 [main] INFO  - Taking screenshot
+13:52:50.814 [main] INFO  - Taking screenshot
+13:52:50.859 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:52:50.859 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:52:50.859 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:52:50.884 [main] DEBUG - Save content types part
+13:52:50.885 [main] DEBUG - Save package relationships
+13:52:50.886 [main] DEBUG - Save part 'docProps/app.xml'
+13:52:50.887 [main] DEBUG - Save part 'docProps/core.xml'
+13:52:50.888 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:52:50.889 [main] DEBUG - Save part 'xl/styles.xml'
+13:52:50.889 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:52:50.889 [main] DEBUG - Save part 'xl/workbook.xml'
+13:52:50.891 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:52:50.892 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:52:50.894 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:52:50.895 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:52:50.895 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:52:50.933 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:52:50.934 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+13:52:50.934 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:52:50.953 [main] DEBUG - Save content types part
+13:52:50.954 [main] DEBUG - Save package relationships
+13:52:50.955 [main] DEBUG - Save part 'docProps/app.xml'
+13:52:50.955 [main] DEBUG - Save part 'docProps/core.xml'
+13:52:50.956 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:52:50.956 [main] DEBUG - Save part 'xl/styles.xml'
+13:52:50.956 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:52:50.957 [main] DEBUG - Save part 'xl/workbook.xml'
+13:52:50.958 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:52:50.959 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:52:50.959 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:52:50.959 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+13:52:50.959 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+13:52:51.116 [main] INFO  - Taking screenshot
+13:52:51.117 [main] INFO  - Quitting the website
+17:22:12.579 [main] INFO  - Website is opened
+17:22:17.913 [main] INFO  - Clicking search button
+17:22:58.860 [main] INFO  - Taking screenshot
+17:22:58.887 [main] INFO  - Clicking English checkbox
+17:23:01.226 [main] INFO  - Clicking English check box
+17:23:01.454 [main] INFO  - Taking screenshot
+17:23:01.456 [main] INFO  - Clicking Beginner checkbox
+17:23:05.900 [main] INFO  - Scrolling and clicking beginner box
+17:23:06.180 [main] INFO  - Taking screenshot
+17:23:12.293 [main] INFO  - Clicking First Course
+17:23:12.682 [main] INFO  - Taking screenshot
+17:23:48.853 [main] INFO  - Getting First course window handle
+17:23:48.854 [main] INFO  - Getting the first course details
+17:23:49.216 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:49.224 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:23:49.227 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:23:49.657 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:23:49.662 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:23:49.663 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:23:49.665 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:23:49.665 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:23:49.667 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:23:49.696 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+17:23:49.698 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:23:49.703 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+17:23:49.705 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:23:49.707 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+17:23:49.710 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:23:49.711 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+17:23:49.714 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+17:23:49.795 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+17:23:49.796 [main] TRACE - Resolving type for handle themefd26doctype
+17:23:49.930 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+17:23:49.942 [main] TRACE - Resolving type for handle ctstylesheet4257type
+17:23:49.952 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+17:23:49.956 [main] TRACE - Resolving type for handle ctnumfmt3870type
+17:23:49.958 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+17:23:49.966 [main] TRACE - Resolving type for handle stxstringf179type
+17:23:49.967 [main] TRACE - Resolving type for handle ctfonts6623type
+17:23:49.971 [main] TRACE - Resolving type for handle ctfont14d8type
+17:23:49.977 [main] TRACE - Resolving type for handle ctfills2c6ftype
+17:23:49.980 [main] TRACE - Resolving type for handle ctfill550ctype
+17:23:49.983 [main] TRACE - Resolving type for handle ctborders0d66type
+17:23:49.987 [main] TRACE - Resolving type for handle ctborderf935type
+17:23:49.992 [main] TRACE - Resolving type for handle ctcellxfs1322type
+17:23:49.995 [main] TRACE - Resolving type for handle ctxf97f7type
+17:23:49.998 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+17:23:50.004 [main] TRACE - Resolving type for handle ctdxfsb26atype
+17:23:50.008 [main] TRACE - Resolving type for handle cttablestyles872ftype
+17:23:50.012 [main] TRACE - Resolving type for handle sstf81fdoctype
+17:23:50.023 [main] TRACE - Resolving type for handle ctsst44f3type
+17:23:50.029 [main] TRACE - Resolving type for handle ctrsta472type
+17:23:50.098 [main] TRACE - Resolving type for handle workbookec17doctype
+17:23:50.107 [main] TRACE - Resolving type for handle ctworkbook83c3type
+17:23:50.124 [main] TRACE - Resolving type for handle ctsheets49fdtype
+17:23:50.128 [main] TRACE - Resolving type for handle ctsheet4dbetype
+17:23:50.131 [main] TRACE - Resolving type for handle strelationshipid1e94type
+17:23:50.135 [main] TRACE - Resolving type for handle worksheetf539doctype
+17:23:50.147 [main] TRACE - Resolving type for handle ctworksheet530dtype
+17:23:50.180 [main] TRACE - Resolving type for handle ctcols627ctype
+17:23:50.192 [main] TRACE - Resolving type for handle ctcola95ftype
+17:23:50.220 [main] TRACE - Resolving type for handle ctsheetdata8408type
+17:23:50.228 [main] TRACE - Resolving type for handle ctrowdd39type
+17:23:50.251 [main] TRACE - Resolving type for handle ctcell842btype
+17:23:50.265 [main] TRACE - Resolving type for handle stcellrefe4e0type
+17:23:50.281 [main] TRACE - Resolving type for handle cthyperlinks6416type
+17:23:50.286 [main] TRACE - Resolving type for handle cthyperlink0c85type
+17:23:50.335 [main] TRACE - Resolving type for handle stcelltypebf95type
+17:23:50.360 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+17:23:50.373 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+17:23:50.376 [main] TRACE - Resolving type for handle stref90a2type
+17:23:50.420 [main] TRACE - Resolving type for handle propertiesee84doctype
+17:23:50.423 [main] TRACE - Resolving type for handle ctproperties3f10type
+17:23:50.433 [main] TRACE - Resolving type for handle properties288cdoctype
+17:23:50.435 [main] TRACE - Resolving type for handle ctproperties2c18type
+17:23:50.463 [main] DEBUG - Save content types part
+17:23:50.578 [main] DEBUG - Save package relationships
+17:23:50.586 [main] DEBUG - Save part 'docProps/app.xml'
+17:23:50.587 [main] DEBUG - Save part 'docProps/core.xml'
+17:23:50.592 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:23:50.593 [main] DEBUG - Save part 'xl/styles.xml'
+17:23:50.594 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:23:50.595 [main] DEBUG - Save part 'xl/workbook.xml'
+17:23:50.598 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:23:50.603 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:23:50.604 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:23:50.605 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:23:50.605 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:23:50.624 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:50.626 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:23:50.627 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:23:50.717 [main] DEBUG - Save content types part
+17:23:50.720 [main] DEBUG - Save package relationships
+17:23:50.721 [main] DEBUG - Save part 'docProps/app.xml'
+17:23:50.721 [main] DEBUG - Save part 'docProps/core.xml'
+17:23:50.724 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:23:50.725 [main] DEBUG - Save part 'xl/styles.xml'
+17:23:50.725 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:23:50.726 [main] DEBUG - Save part 'xl/workbook.xml'
+17:23:50.728 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:23:50.730 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:23:50.731 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:23:50.732 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:23:50.732 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:23:50.744 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:23:50.745 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:23:50.746 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:23:50.826 [main] DEBUG - Save content types part
+17:23:50.830 [main] DEBUG - Save package relationships
+17:23:50.832 [main] DEBUG - Save part 'docProps/app.xml'
+17:23:50.832 [main] DEBUG - Save part 'docProps/core.xml'
+17:23:50.834 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:23:50.834 [main] DEBUG - Save part 'xl/styles.xml'
+17:23:50.835 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:23:50.835 [main] DEBUG - Save part 'xl/workbook.xml'
+17:23:50.837 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:23:50.840 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:23:50.840 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:23:50.840 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:23:50.841 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:23:53.185 [main] INFO  - Taking screenshot
+17:23:57.271 [main] INFO  - Clicking Second Course
+17:23:57.645 [main] INFO  - Taking screenshot
+17:23:57.647 [main] INFO  - Getting window handles
+17:23:57.785 [main] INFO  - Checking Second Course Title
+17:24:36.685 [main] INFO  - Extracting Second course details
+17:24:36.798 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:36.799 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:36.800 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:36.878 [main] DEBUG - Save content types part
+17:24:36.883 [main] DEBUG - Save package relationships
+17:24:36.884 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:36.885 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:36.887 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:36.888 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:36.889 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:36.889 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:36.892 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:36.894 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:36.895 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:36.896 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:36.896 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:36.912 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:36.915 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:36.917 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:37.023 [main] DEBUG - Save content types part
+17:24:37.027 [main] DEBUG - Save package relationships
+17:24:37.030 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:37.032 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:37.037 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:37.037 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:37.038 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:37.038 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:37.043 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:37.046 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:37.047 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:37.048 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:37.048 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:37.066 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:37.069 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:37.070 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:37.202 [main] DEBUG - Save content types part
+17:24:37.207 [main] DEBUG - Save package relationships
+17:24:37.212 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:37.213 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:37.218 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:37.218 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:37.219 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:37.220 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:37.224 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:37.229 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:37.230 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:37.230 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:37.231 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:39.450 [main] INFO  - Returning to Parent Window
+17:24:39.712 [main] INFO  - Taking screenshot
+17:24:39.991 [main] INFO  - Clearing search box
+17:24:40.291 [main] INFO  - Taking screenshot
+17:24:40.486 [main] INFO  - Searching values
+17:24:40.900 [main] INFO  - Taking screenshot
+17:24:40.901 [main] INFO  - Clicking search button
+17:24:41.573 [main] INFO  - Taking screenshot
+17:24:41.575 [main] INFO  - Clicking See All link
+17:24:42.086 [main] INFO  - Taking screenshot
+17:24:42.153 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:42.154 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:42.155 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:42.302 [main] DEBUG - Save content types part
+17:24:42.305 [main] DEBUG - Save package relationships
+17:24:42.311 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:42.312 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:42.315 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:42.316 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:42.316 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:42.318 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:42.321 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:42.324 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:42.325 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:42.325 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:42.326 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:42.338 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:42.340 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:42.341 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:42.432 [main] DEBUG - Save content types part
+17:24:42.435 [main] DEBUG - Save package relationships
+17:24:42.438 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:42.438 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:42.442 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:42.443 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:42.444 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:42.446 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:42.449 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:42.452 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:42.452 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:42.452 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:42.454 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:42.800 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:42.802 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:42.803 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:42.877 [main] DEBUG - Save content types part
+17:24:42.879 [main] DEBUG - Save package relationships
+17:24:42.881 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:42.881 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:42.884 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:42.885 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:42.886 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:42.887 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:42.892 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:42.895 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:42.895 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:42.896 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:42.896 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:42.910 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:42.911 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:42.912 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:42.967 [main] DEBUG - Save content types part
+17:24:42.968 [main] DEBUG - Save package relationships
+17:24:42.970 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:42.970 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:42.973 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:42.973 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:42.974 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:42.974 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:42.976 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:42.978 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:42.978 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:42.978 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:42.978 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.029 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.030 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.031 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.080 [main] DEBUG - Save content types part
+17:24:43.083 [main] DEBUG - Save package relationships
+17:24:43.085 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.085 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.087 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.088 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.088 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.089 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.092 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.094 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.095 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.095 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.096 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.106 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.108 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.108 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.167 [main] DEBUG - Save content types part
+17:24:43.170 [main] DEBUG - Save package relationships
+17:24:43.174 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.174 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.177 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.177 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.178 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.178 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.182 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.185 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.185 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.186 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.186 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.245 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.246 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.247 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.310 [main] DEBUG - Save content types part
+17:24:43.312 [main] DEBUG - Save package relationships
+17:24:43.314 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.315 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.317 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.317 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.318 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.318 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.322 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.324 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.325 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.325 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.326 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.339 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.341 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.342 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.397 [main] DEBUG - Save content types part
+17:24:43.402 [main] DEBUG - Save package relationships
+17:24:43.405 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.406 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.410 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.411 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.412 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.412 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.416 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.419 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.419 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.420 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.420 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.489 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.491 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.493 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.571 [main] DEBUG - Save content types part
+17:24:43.574 [main] DEBUG - Save package relationships
+17:24:43.576 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.577 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.580 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.581 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.582 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.583 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.586 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.590 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.590 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.591 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.591 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.605 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.606 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.608 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.701 [main] DEBUG - Save content types part
+17:24:43.704 [main] DEBUG - Save package relationships
+17:24:43.707 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.708 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.712 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.713 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.713 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.714 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.719 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.721 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.722 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.724 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.725 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.786 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.787 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.788 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.855 [main] DEBUG - Save content types part
+17:24:43.858 [main] DEBUG - Save package relationships
+17:24:43.862 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.862 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.865 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.866 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.866 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.867 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.869 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.873 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.874 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.874 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.875 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:43.889 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:43.891 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:43.893 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:43.948 [main] DEBUG - Save content types part
+17:24:43.951 [main] DEBUG - Save package relationships
+17:24:43.954 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:43.954 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:43.957 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:43.958 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:43.958 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:43.959 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:43.963 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:43.965 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:43.965 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:43.966 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:43.966 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.020 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.021 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.022 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.074 [main] DEBUG - Save content types part
+17:24:44.077 [main] DEBUG - Save package relationships
+17:24:44.078 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.079 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.081 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:44.082 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:44.082 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:44.083 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:44.086 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:44.088 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:44.088 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:44.089 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:44.089 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.096 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.098 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.099 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.140 [main] DEBUG - Save content types part
+17:24:44.141 [main] DEBUG - Save package relationships
+17:24:44.143 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.143 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.145 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:44.145 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:44.145 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:44.146 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:44.147 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:44.149 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:44.149 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:44.149 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:44.149 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.194 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.195 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.195 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.245 [main] DEBUG - Save content types part
+17:24:44.248 [main] DEBUG - Save package relationships
+17:24:44.250 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.251 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.253 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:44.254 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:44.254 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:44.255 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:44.257 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:44.260 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:44.261 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:44.262 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:44.262 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.270 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.272 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.273 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.323 [main] DEBUG - Save content types part
+17:24:44.325 [main] DEBUG - Save package relationships
+17:24:44.326 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.326 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.328 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:44.328 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:44.328 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:44.329 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:44.330 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:44.332 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:44.332 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:44.332 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:44.333 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.385 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.386 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.387 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.431 [main] DEBUG - Save content types part
+17:24:44.433 [main] DEBUG - Save package relationships
+17:24:44.435 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.435 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.436 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+17:24:44.437 [main] DEBUG - Save part 'xl/styles.xml'
+17:24:44.437 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+17:24:44.438 [main] DEBUG - Save part 'xl/workbook.xml'
+17:24:44.440 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+17:24:44.441 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+17:24:44.442 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+17:24:44.442 [main] DEBUG - Save part 'xl/worksheets/sheet4.xml'
+17:24:44.442 [main] DEBUG - Save part 'xl/worksheets/sheet5.xml'
+17:24:44.449 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:24:44.449 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+17:24:44.450 [main] DEBUG - Parsing relationship: /_rels/.rels
+17:24:44.482 [main] DEBUG - Save content types part
+17:24:44.484 [main] DEBUG - Save package relationships
+17:24:44.485 [main] DEBUG - Save part 'docProps/app.xml'
+17:24:44.485 [main] DEBUG - Save part 'docProps/core.xml'
+17:24:44.486 [main] DEBUG - Save part 'xl/sharedStrings.xml'
